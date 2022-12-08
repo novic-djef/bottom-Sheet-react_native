@@ -70,7 +70,6 @@ const Ajouter = () => {
           </View>
         
           <View style={tailwind("h-px bg-gray-200 mb-6")} />
-          <BeakerIcon  className="h-3 w-3 text-red-500"/>
           <Button onPress={goToCart}  type="secondary">
           
            Ajouter au panier
