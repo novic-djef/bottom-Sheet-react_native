@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { Product } from \"./Product\";","map":{"version":3,"names":["Product"],"sources":["D:/nouveaux projet/ajout panier buttonsheet/src/screens/Product/index.ts"],"sourcesContent":["export { Product } from \"./Product\";\n"],"mappings":"AAAA,SAASA,OAAO"},"metadata":{},"sourceType":"module"}
